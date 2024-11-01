@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2834.65 1700.79">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #e52421;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st1, .st3 {
+        fill: #fff;
+      }
+
+      .st0, .st2 {
+        stroke-width: .03px;
+      }
+
+      .st1 {
+        stroke-width: 2.83px;
+      }
+
+      .st1, .st3 {
+        stroke: #1d1d1b;
+      }
+
+      .st2 {
+        fill: #1d1d1b;
+        font-family: Chalkduster, Chalkduster;
+        font-size: 48px;
+        stroke: #e30613;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M610.53,911.56h127.56l104.64-71.94c3.12-2.15,4.45-6.1,3.25-9.7l-220.85-662.56c-1.24-3.73.24-7.84,3.58-9.91l84.06-52.21c7.27-4.51,4.07-15.73-4.49-15.73h-97.75c-4.7,0-8.5,3.81-8.5,8.5v398.54h70.87v8.5h-70.87v398c0,4.7,3.81,8.5,8.5,8.5Z"/>
+  <path class="st3" d="M445.82,497.56"/>
+  <path class="st0" d="M817,504v-9h-72l-114.73-326.53c-1.33-3.78.16-7.96,3.57-10.06l111.16-68.41,125.69.48c4.68.02,8.47,3.81,8.47,8.5l.83,801.51c0,4.7-3.8,8.51-8.5,8.51h-98.4c-8.41,0-11.72-10.91-4.72-15.58l79.27-52.85c3.17-2.11,4.55-6.08,3.37-9.7l-106.01-326.87h72Z"/>
+  <text class="st2" transform="translate(756 180)"><tspan x="0" y="0">TS</tspan></text>
+  <polygon class="st1" points="711 909 603 819 792 675 711 909"/>
+  <polygon class="st1" points="738.09 911.56 603 756 783 648 738.09 911.56"/>
+  <polygon class="st1" points="765 891 603 684 774 630 765 891"/>
+  <polygon class="st1" points="774 882 603 639 765 603 774 882"/>
+  <polygon class="st1" points="792 873 603 594 756 567 792 873"/>
+  <polygon class="st1" points="801 864 603 576 747 549 801 864"/>
+  <polygon class="st1" points="819 855 603 549 747 531 819 855"/>
+  <polygon class="st1" points="666 495 603 441 711 423 666 495"/>
+  <polygon class="st1" points="675 495 603 423 702 414 675 495"/>
+  <polygon class="st1" points="684 495 603 405 702 396 684 495"/>
+  <polygon class="st1" points="693 486 603 387 693 378 693 486"/>
+  <polygon class="st1" points="702 468 603 369 693 369 702 468"/>
+  <polygon class="st1" points="711 450 603 351 684 351 711 450"/>
+  <polygon class="st1" points="603 540 729 486 711 585 603 540"/>
+  <polygon class="st1" points="603 558 738 522 684 594 603 558"/>
+  <polygon class="st1" points="603 585 747 549 675 621 603 585"/>
+</svg>
